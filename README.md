@@ -46,7 +46,7 @@
 To run this project, follow these steps:
 
 1. Clone the repository:
- git clone https://github.com/mohdarfin27/THANOS.git
+ git clone https://github.com/MohamedAfzal02/THANOS
 
 2. Navigate to the project directory: cd THANOS
 
